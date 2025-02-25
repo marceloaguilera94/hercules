@@ -1,0 +1,4 @@
+- Slack
+It has channels and most widely used for communication.
+- Teams
+Some companies use teams for communication.

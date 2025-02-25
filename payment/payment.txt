@@ -1,0 +1,6 @@
+1. Crypto payment - final purpose
+This is the final pupose of payment.
+2. Payoneer
+This is a virtual bank account. We cannot get paid from an individual, but we can get paid from a company or a business.
+3. Paypal
+We can easily get paid from individual clients. However, conversion fee to crypto is about 20%.
